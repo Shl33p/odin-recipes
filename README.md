@@ -1,1 +1,3 @@
 # odin-recipes
+In this current project, I will be creating a basic recipe website. 
+The skills I want to really demonstrate is my knowlodge in html and to see how far I've come in this small amount of time I've been "coding".  I know that the journey is not easy but I want to be able to put my skills to the test.  I've really enjoyed putting my time into this new found interest in my life, which I thank Father and Mother for allowing me to find something to make the time go by a little easier here on Earth before we go to the Kingdom of Heaven.
